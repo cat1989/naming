@@ -1,0 +1,20 @@
+{
+  "name": "naming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc & jest",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "cat1989",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.4.3"
+  },
+  "files": [
+    "dist"
+  ]
+}
